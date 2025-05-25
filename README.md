@@ -2,7 +2,7 @@
 
 🎓 CSIT student @ Himalaya College of Engineering  
 💻 Aspiring Web & App Developer | Tech Enthusiast  
-🌐 Skilled in Next.js, React | Exploring AI & Python  
+🌐 Skilled in Next.js, React,Asp.Net | Exploring AI & Python  
 
 ## 🚀 Skills
 - **Languages:** Typescript,JavaScript, Python, C, C++, Java, C#
