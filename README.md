@@ -1,5 +1,8 @@
 # Hi, I'm Abhay Raj Shrestha👋
 
+<p align="center">
+  <img src="banner.png" alt="Abhay Raj Banner" />
+</p>
 🎓 CSIT student @ Himalaya College of Engineering  
 💻 Aspiring Web & App Developer | Tech Enthusiast  
 🌐 Skilled in Next.js, React,Asp.Net | Exploring AI & Python  
