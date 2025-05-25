@@ -1,4 +1,4 @@
-# Hi, I'm Abhay Raj 👋
+# Hi, I'm Abhay Raj Shrestha👋
 
 🎓 CSIT student @ Himalaya College of Engineering  
 💻 Aspiring Web & App Developer | Tech Enthusiast  
