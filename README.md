@@ -10,7 +10,7 @@
 ## 🚀 Skills
 - **Languages:** Typescript,JavaScript, Python, C, C++, Java, C#
 - **Frameworks:** Next.js, React
-- **Tools:** Git, VS Code, Postman, Figma
+- **Tools:** Git, VS Code, Postman
 - **Other:** WordPress, Firebase (basic)
 
 ## 📈 GitHub Stats
